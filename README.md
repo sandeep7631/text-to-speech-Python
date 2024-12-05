@@ -73,3 +73,9 @@ This project is licensed under the [MIT License](LICENSE).
 - [Flask](https://flask.palletsprojects.com/): A lightweight WSGI web application framework.
 - [gTTS](https://gtts.readthedocs.io/): A Python library and CLI tool to interface with Google Translate's text-to-speech API.
 - [Pygame](https://www.pygame.org/): A cross-platform set of Python modules designed for writing video games, but also used for multimedia applications.
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/c5864b65-5ba0-4675-bdc9-0bdd4f0db29e)
+
+![image](https://github.com/user-attachments/assets/9ab15d85-bca7-4d0e-9acb-504abb323751)
+
